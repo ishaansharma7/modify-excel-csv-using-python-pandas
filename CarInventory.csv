@@ -1,0 +1,53 @@
+﻿Car ID,Maker,Model,Model Full Name,Mfg Year,Miles,Covered?
+GM12CMR015,General Motors,CMR,Camero,12,19421.1,Covered
+HO99CIV030,Honda,CIV,Civic,99,82374,Not Covered
+GM00SLV019,General Motors,SLV,Silverado,0,80685.8,Covered
+HO11CIV034,Honda,CIV,Civic,11,30555.3,Covered
+CR99CAR045,Chrysler,CAR,Caravan,99,79420.6,Not Covered
+TY03COR026,Toyota,COR,Camero,3,73444.4,Covered
+CR00CAR046,Chrysler,CAR,Caravan,0,77243.1,Not Covered
+GM98SLV018,General Motors,SLV,Silverado,98,83162.7,Covered
+CR04CAR047,Chrysler,CAR,Caravan,4,72527.2,Covered
+HO10ODY040,Honda,ODY,Odyssey,10,68658.9,Covered
+TY98CAM021,Toyota,CAM,Camery,98,93382.6,Covered
+TY02CAM023,Toyota,CAM,Camery,2,67829.1,Covered
+CR04PTC042,Chrysler,PTC,PT Cruiser,4,64542,Covered
+TY02COR025,Toyota,COR,Camero,12,64467.4,Covered
+HO05ODY037,Honda,ODY,Odyssey,5,60389.5,Covered
+TY00CAM022,Toyota,CAM,Camery,0,85928,Covered
+CR04CAR048,Chrysler,CAR,Caravan,17,52699.4,Covered
+FD06FCS007,Ford,FCS,Focus,6,52229.5,Covered
+HO07ODY038,Honda,ODY,Odyssey,7,50854.1,Covered
+TY09CAM024,Toyota,CAM,Camery,9,48114.2,Covered
+FD06FCS006,Ford,FCS,Focus,16,46311.4,Covered
+HO01CIV031,Honda,CIV,Civic,1,69891.9,Covered
+FD06MTG002,Ford,MTG,Mustang,6,44974.8,Covered
+FD08MTG003,Ford,MTG,Mustang,8,44946.5,Covered
+HO08ODY039,Honda,ODY,Odyssey,8,42504.6,Covered
+TY96CAM020,Toyota,CAM,Camery,96,114660.6,Not Covered
+FD06MTG001,Ford,MTG,Mustang,6,40326.8,Covered
+FD08MTG004,Ford,MTG,Mustang,15,37558.8,Covered
+FD12FCS011,Ford,FCS,Focus,12,19341.7,Covered
+GM10SLV017,General Motors,SLV,Silverado,10,31144.4,Covered
+FD08MTG005,Ford,MTG,Mustang,8,36438.5,Covered
+FD09FCS008,Ford,FCS,Focus,9,35137,Covered
+HO10CIV033,Honda,CIV,Civic,10,33477.2,Covered
+TY12COR028,Toyota,COR,Camero,12,29601.9,Covered
+HY11ELA049,Hyundai,ELA,Elantra,11,29102.3,Covered
+FD13FCS009,Ford,FCS,Focus,13,27637.1,Covered
+FD13FCS010,Ford,FCS,Focus,20,27534.8,Covered
+CR07PTC043,Chrysler,PTC,PT Cruiser,7,42074.2,Covered
+CR11PTC044,Chrysler,PTC,PT Cruiser,11,27394.2,Covered
+HO12CIV035,Honda,CIV,Civic,12,24513.2,Covered
+HO10CIV032,Honda,CIV,Civic,10,22573,Covered
+FD13FCS012,Ford,FCS,Focus,15,22521.6,Covered
+HO14ODY041,Honda,ODY,Odyssey,18,3708.1,Covered
+HY12ELA050,Hyundai,ELA,Elantra,12,22282,Covered
+HO13CIV036,Honda,CIV,Civic,18,13867.6,Covered
+HY13ELA052,Hyundai,ELA,Elantra,13,22188.5,Covered
+GM09CMR014,General Motors,CMR,Camero,9,28464.8,Covered
+TY12CAM029,Toyota,CAM,Camery,12,22128.2,Covered
+HY13ELA051,Hyundai,ELA,Elantra,13,20223.9,Covered
+TY14COR027,Toyota,COR,Camero,14,17556.3,Covered
+FD13FCS013,Ford,FCS,Focus,13,13682.9,Covered
+GM14CMR016,General Motors,CMR,Camero,19,14289.6,Covered
